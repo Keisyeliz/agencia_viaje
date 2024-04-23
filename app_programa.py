@@ -31,7 +31,7 @@ def fnt_agente(op):
                 print(viajero)
             enter = input('Presione <Enter> para continuar...')
     elif op == '3':
-        print('---Salir---\n')
+        sw = False
         
 sw = True
 while sw == True:
